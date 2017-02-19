@@ -26,4 +26,4 @@
 * Put put the mincraft server in that user's `$HOME/minecraft`
 * Make sure `screen` is installed.
 * put this file in /lib/systemd/system/minecraft.service
-* run `systemctl enable mincraft` to have it start on boot.
+* run `systemctl enable minecraft` to have it start on boot.
